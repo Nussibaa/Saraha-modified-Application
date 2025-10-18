@@ -28,4 +28,6 @@ A **C++ desktop messaging application** built using the **Qt Framework** that al
 - Data sorting and searching algorithms
 - Clean modular architecture
 
+📄 License
 
+This project is developed for educational purposes and personal learning.
