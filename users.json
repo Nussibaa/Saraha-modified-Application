@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "contacts": [],
+            "deletedIDmsgs": [],
+            "favoriteMessages": [],
+            "id": 3,
+            "messageCounts": [],
+            "password": "123456",
+            "sentMessages": [
+                {
+                    "expirationTime": 1748806108,
+                    "message": "[2025-05-31 22:28:28] To ID: 2\nMessage: Hellooo\n",
+                    "receiverId": 2
+                },
+                {
+                    "expirationTime": 1748806125,
+                    "message": "[2025-05-31 22:28:45] To ID: 2\nMessage: hii\n",
+                    "receiverId": 2
+                }
+            ],
+            "sortedByMessages": [],
+            "username": "Nussiba "
+        },
+        {
+            "contacts": [],
+            "deletedIDmsgs": [],
+            "favoriteMessages": [],
+            "id": 1,
+            "messageCounts": [],
+            "password": "123456",
+            "sentMessages": [],
+            "sortedByMessages": [],
+            "username": "Nussiba"
+        },
+        {
+            "contacts": [],
+            "deletedIDmsgs": [],
+            "favoriteMessages": [],
+            "id": 2,
+            "messageCounts": [],
+            "password": "123456",
+            "sentMessages": [
+                {
+                    "expirationTime": 1747998231,
+                    "message": "[2025-05-22 14:03:51] To ID: 1\nMessage: hiiihihihihihi\n",
+                    "receiverId": 1
+                },
+                {
+                    "expirationTime": 1747998240,
+                    "message": "[2025-05-22 14:04:00] To ID: 1\nMessage: yes please \n",
+                    "receiverId": 1
+                },
+                {
+                    "expirationTime": 1747998246,
+                    "message": "[2025-05-22 14:04:06] To ID: 1\nMessage: hihhihihihi\n",
+                    "receiverId": 1
+                }
+            ],
+            "sortedByMessages": [],
+            "username": "Habiba"
+        }
+    ]
+}
