@@ -28,6 +28,9 @@ A **C++ desktop messaging application** built using the **Qt Framework** that al
 - Data sorting and searching algorithms
 - Clean modular architecture
 
+  ## 👥 Contributors
+- [Nussibaa](https://github.com/Nussibaa)
+
 📄 License
 
 This project is developed for educational purposes and personal learning.
