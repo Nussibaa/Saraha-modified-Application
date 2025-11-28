@@ -31,6 +31,7 @@ A **C++ desktop messaging application** built using the **Qt Framework** that al
   ## 👥 Contributors
 - [Nussibaa](https://github.com/Nussibaa)
 - [habiba_Hussein754](https://github.com/habiba-Hussein754)
+- [mariabeheiry](https://github.com/mariabeheiry)
 
 📄 License
 
